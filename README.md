@@ -6,4 +6,5 @@ The algorithm described so far gives us only the length of the shortest path.
 Date : 16.10.2020
 Time : 4:00 pm
 A* algorithm returns shortest path
+
 END
